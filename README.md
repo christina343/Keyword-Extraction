@@ -1,4 +1,4 @@
-# Keyword Extraction Lab
+# Keyword Extraction 
 
 A Flask + FastAPI web application that uses TF-IDF ranking (via scikit-learn) to extract the most relevant keywords from any passage of text. Built to assist investigative journalists and researchers who need to sift quickly through large corpora and surface the essential concepts.
 
